@@ -105,11 +105,8 @@ Hobbies = [
 <h2 align="center"> Connect with Me</h2>
 
 <p align="center">
-<<<<<<< HEAD
 <a href="https://www.youtube.com/c/HackSayan"><img alt="Youtube" title="Hack Sayan Youtube" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=youtube&logoColor=white"></a>
-=======
 <a href="https://www.youtube.com/c/HackSayan"><img alt="Youtube" title="Hack Sayan Youtube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
->>>>>>> bbcb26c (Updated on 29th April 2024 by @thehacksayan)
 <a href="https://in.linkedin.com/in/hacksayan"><img alt="Linkedin" title="Sayan Chatterjee Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.gg/tgMZcnjrvy"><img alt="Discord" title="Sayan Chatterjee Discord Family" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/hacksayan"><img alt="Instagram" title="Sayan Chatterjee Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -137,10 +134,7 @@ Hobbies = [
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<<<<<<< HEAD
-=======
 <br>
->>>>>>> bbcb26c (Updated on 29th April 2024 by @thehacksayan)
 -----
 Credits: [Hack Sayan](https://github.com/thehacksayan)
 
