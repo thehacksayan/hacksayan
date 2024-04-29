@@ -102,14 +102,13 @@ Hobbies = [
   <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=thehacksayan&theme=react-dark&hide_border=true&area=true)
-
 <h2 align="center"> Connect with Me</h2>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/hacksayan"><img alt="Linkedin" title="Sayan Chatterjee Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/c/HackSayan"><img alt="Youtube" title="Hack Sayan Youtube" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://in.linkedin.com/in/hacksayan"><img alt="Linkedin" title="Sayan Chatterjee Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.gg/tgMZcnjrvy"><img alt="Discord" title="Sayan Chatterjee Discord Family" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://instagram.com/hacksayan"><img alt="Instagram" title="Sayan Chatterjee Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/hacksayan"><img alt="Instagram" title="Sayan Chatterjee Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:info@hacksayan.com"><img alt="Email" title="Mail Hacksayan" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -133,8 +132,6 @@ Hobbies = [
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<br>
 
 -----
 Credits: [Hack Sayan](https://github.com/thehacksayan)
