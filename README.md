@@ -2,7 +2,7 @@
 ![Github Banner](https://github.com/thehacksayan/hacksayan/blob/main/assets/thehacksayan.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Sayan;I+Love+Hacking+&+Security;An+Open+Source+Enthusiast;Cyber+Security+Engineer;Loves+To+Build+Automation+Projects;A+Problem+Solver;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Sayan;I+Love+Hacking;An+Open+Source+Enthusiast;Cyber+Security+Engineer;Loves+To+Build+Automation+Projects;A+Problem+Solver;">
 </p>
 
 
